@@ -1,5 +1,6 @@
 void main() {
-
+  Chage pessoa = new Chage(nome: "Aaron", idade: 10);
+  print(pessoa.nome);
 }
 
 class Chage {
